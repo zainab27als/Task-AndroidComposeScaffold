@@ -46,7 +46,7 @@ fun CoffeeApp() {
         scaffoldState = scaffoldState,
         topBar = {
             TopAppBar(
-                title = { Text("Welcome to CoffeeTime") },
+                title = { Text("Welcome to CoffeeTime!") },
                 backgroundColor = coffeeBrown,
                 contentColor = Color.White
             )
